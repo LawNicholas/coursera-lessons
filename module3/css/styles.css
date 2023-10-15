@@ -1,0 +1,58 @@
+body {
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+  background-color: #efefef;
+}
+
+.container h2 {
+  margin: 10px 0 0 0;
+}
+
+div.container h3 {
+  font-size: 2em;
+}
+
+section div {
+  font-size: 1.2em;
+}
+
+div.container section {
+  margin: 10px auto 10px;
+  border-radius: 6px;
+  padding: 20px;
+}
+
+div.container section:hover {
+  filter: invert(100%);
+}
+
+#chicken {
+  background-color: #BF6900;
+}
+
+#beef {
+  background-color: #3D0C11;
+  color: #FFFFFF;
+}
+
+#sushi {
+  background-color: #000000;
+  color: #FFFFFF;
+}
+
+.navbar {
+  background-color: #FFFFFF
+}
+
+a.navbar-brand {
+  font-family: 'Inter', sans-serif;
+  color: #000000;
+}
+
+li.nav-item {
+  font-family: 'Roboto', sans-serif;
+}
+
+.navbar .navbar-nav {
+  text-align: center;
+}
